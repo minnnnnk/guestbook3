@@ -10,7 +10,7 @@
 <body>
 
 
-	<form action ="/guestbook4/add" method ="post">
+	<form action ="/guestbook3/add" method ="post">
 		<table border = "1">
 			<tr>
 				<td>이름</td>
